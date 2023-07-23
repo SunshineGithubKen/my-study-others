@@ -1,0 +1,40 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#7194
+    [34mall[39m: [
+      [34;4mApp\Models\Post[39;24m {#7196
+        [34mid[39m: [35m1[39m,
+        [34mtitle[39m: "[32mTitle 1[39m",
+        [34mbody[39m: "[32mBody 1[39m",
+        [34mcreated_at[39m: "[32m2023-06-13 19:14:38[39m",
+        [34mupdated_at[39m: "[32m2023-06-13 19:14:38[39m",
+      },
+      [34;4mApp\Models\Post[39;24m {#7197
+        [34mid[39m: [35m2[39m,
+        [34mtitle[39m: "[32mTitle 2[39m",
+        [34mbody[39m: "[32mBody 2[39m",
+        [34mcreated_at[39m: "[32m2023-06-13 20:27:43[39m",
+        [34mupdated_at[39m: "[32m2023-06-13 20:27:43[39m",
+      },
+      [34;4mApp\Models\Post[39;24m {#7198
+        [34mid[39m: [35m3[39m,
+        [34mtitle[39m: "[32mTitle 3[39m",
+        [34mbody[39m: "[32mBody 3[39m",
+        [34mcreated_at[39m: "[32m2023-06-13 20:28:21[39m",
+        [34mupdated_at[39m: "[32m2023-06-13 20:28:21[39m",
+      },
+      [34;4mApp\Models\Post[39;24m {#7199
+        [34mid[39m: [35m4[39m,
+        [34mtitle[39m: "[32mTitle 4[39m",
+        [34mbody[39m: "[32mBody 4[39m",
+        [34mcreated_at[39m: "[32m2023-06-13 20:28:51[39m",
+        [34mupdated_at[39m: "[32m2023-06-13 20:28:51[39m",
+      },
+      [34;4mApp\Models\Post[39;24m {#7200
+        [34mid[39m: [35m5[39m,
+        [34mtitle[39m: "[32mTitle 5[39m",
+        [34mbody[39m: "[32mBody 5[39m",
+        [34mcreated_at[39m: "[32m2023-06-13 20:29:24[39m",
+        [34mupdated_at[39m: "[32m2023-06-13 20:29:24[39m",
+      },
+    ],
+  }
+
